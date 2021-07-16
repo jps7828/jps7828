@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jps7828
+- 👋 Hi, I’m Jitendra Pratap Singh
 - 👀 I’m interested in php web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web development projects
